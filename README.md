@@ -1,1 +1,1 @@
-# autoDeployVMEnvironment
+# autoDeployVIEnvironment
